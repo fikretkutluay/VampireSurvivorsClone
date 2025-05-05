@@ -173,7 +173,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4162d0a4d526df748bf18eece6a9fd42, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 3
+  moveSpeed: 1.5
 --- !u!114 &8102613877022813751
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -202,4 +202,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xpOrbPrefab: {fileID: 343081001731753121, guid: 0eaa87776d5a303409e5f88c4cd5409a,
     type: 3}
-  health: 100
+  health: 30

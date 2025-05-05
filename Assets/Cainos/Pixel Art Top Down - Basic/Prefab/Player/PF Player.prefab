@@ -493,8 +493,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectilePrefab: {fileID: 3256461577500995936, guid: 716ce7c8037cb3f4885b4463f017720b,
     type: 3}
-  fireRate: 1
   timer: 2
+  playerStats: {fileID: 6682423757278928091}
 --- !u!114 &942506480806054907
 MonoBehaviour:
   m_ObjectHideFlags: 0
